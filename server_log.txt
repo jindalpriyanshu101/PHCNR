@@ -1,0 +1,686 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:44] 
+[15:53:44] Server Plugins
+[15:53:44] --------------
+[15:53:44]  Loading plugin: crashdetect
+[15:53:49]   Failed.
+[15:53:49]  Loading plugin: mysql
+[15:53:50]   Failed.
+[15:53:50]  Loading plugin: sscanf
+[15:53:50]   Failed.
+[15:53:50]  Loading plugin: streamer
+[15:53:50]   Failed.
+[15:53:50]  Loaded 0 plugins.
+
+[15:53:51] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:53:51] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:53:51] 
+[15:53:51] Server Plugins
+[15:53:51] --------------
+[15:53:51]  Loading plugin: crashdetect
+[15:53:52]   Failed.
+[15:53:52]  Loading plugin: mysql
+[15:53:52]   Failed.
+[15:53:52]  Loading plugin: sscanf
+[15:53:53]   Failed.
+[15:53:53]  Loading plugin: streamer
+[15:53:57]   Failed.
+[15:53:57]  Loaded 0 plugins.
+
+[15:53:57] I couldn't load any gamemode scripts. Please verify your server.cfg
+[15:53:57] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:18] 
+[21:18:18] Server Plugins
+[21:18:18] --------------
+[21:18:18]  Loading plugin: crashdetect
+[21:18:21]   Failed.
+[21:18:21]  Loading plugin: mysql
+[21:18:22]   Failed.
+[21:18:22]  Loading plugin: sscanf
+[21:18:23]   Failed.
+[21:18:23]  Loading plugin: streamer
+[21:18:23]   Failed.
+[21:18:23]  Loaded 0 plugins.
+
+[21:18:23] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:18:23] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:46] 
+[21:18:46] Server Plugins
+[21:18:46] --------------
+[21:18:46]  Loading plugin: crashdetect
+[21:18:47]   Failed.
+[21:18:47]  Loading plugin: mysql
+[21:18:47]   Failed.
+[21:18:47]  Loading plugin: sscanf
+[21:18:48]   Failed.
+[21:18:48]  Loading plugin: streamer
+[21:18:48]   Failed.
+[21:18:48]  Loaded 0 plugins.
+
+[21:18:49] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:18:49] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:19:49] 
+[21:19:49] Server Plugins
+[21:19:49] --------------
+[21:19:49]  Loading plugin: crashdetect
+[21:19:49]   CrashDetect v4.15.1 is OK.
+[21:19:49]   Loaded.
+[21:19:49]  Loading plugin: mysql
+[21:19:50]  >> plugin.mysql: R39-4 successfully loaded.
+[21:19:50]   Loaded.
+[21:19:50]  Loading plugin: sscanf
+[21:19:55]   Failed.
+[21:19:55]  Loading plugin: streamer
+[21:19:57]   Failed.
+[21:19:57]  Loaded 2 plugins.
+
+[21:19:57] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:19:57] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:20:26] 
+[21:20:26] Server Plugins
+[21:20:26] --------------
+[21:20:26]  Loading plugin: crashdetect
+[21:20:26]   CrashDetect v4.15.1 is OK.
+[21:20:26]   Loaded.
+[21:20:26]  Loading plugin: mysql
+[21:20:26]  >> plugin.mysql: R39-4 successfully loaded.
+[21:20:26]   Loaded.
+[21:20:26]  Loading plugin: sscanf
+[21:20:26] 
+
+[21:20:26]  ===============================
+
+[21:20:26]       sscanf plugin loaded.     
+
+[21:20:26]          Version:  2.8.1        
+
+[21:20:26]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:20:26]  ===============================
+
+[21:20:26]   Loaded.
+[21:20:26]  Loading plugin: streamer
+[21:20:26] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[21:20:26]   Loaded.
+[21:20:26]  Loaded 4 plugins.
+
+[21:20:26] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:20:26] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:00] 
+[21:21:00] Server Plugins
+[21:21:00] --------------
+[21:21:00]  Loading plugin: crashdetect
+[21:21:00]   CrashDetect v4.15.1 is OK.
+[21:21:00]   Loaded.
+[21:21:00]  Loading plugin: mysql
+[21:21:00]  >> plugin.mysql: R39-4 successfully loaded.
+[21:21:00]   Loaded.
+[21:21:00]  Loading plugin: sscanf
+[21:21:00] 
+
+[21:21:00]  ===============================
+
+[21:21:00]       sscanf plugin loaded.     
+
+[21:21:00]          Version:  2.8.1        
+
+[21:21:00]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:21:00]  ===============================
+
+[21:21:00]   Loaded.
+[21:21:00]  Loading plugin: streamer
+[21:21:00] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[21:21:00]   Loaded.
+[21:21:00]  Loaded 4 plugins.
+
+[21:21:00] 
+[21:21:00] Filterscripts
+[21:21:00] ---------------
+[21:21:00]   Loading filterscript 'afk.amx'...
+[21:21:01]   Loading filterscript 'antirapidfire.amx'...
+[21:21:01]   Unable to load filterscript 'antirapidfire.amx'.
+[21:21:01]   Loading filterscript 'gps.amx'...
+[21:21:01] 
+--------------------------------------
+[21:21:01] GPS System Loaded
+[21:21:01] 0, -2438.551025, 741.183044, 35.107868, Supa Save
+[21:21:01] 1, -1795.019897, 576.496948, 35.166793, VIP Lounge
+[21:21:01] 2, -1927.602294, 261.575897, 40.718589, Vehicle Dealership SF
+[21:21:01] 3, -2621.093017, 217.150161, 4.283658, Ammunation
+[21:21:01] 4, -2632.546142, 619.860168, 14.132818, Hospital
+[21:21:01] 5, -1890.214599, 813.722656, 35.422653, Job Center
+[21:21:01] 6, -1777.782958, 1201.687133, 24.803468, Bomb Shop 
+[21:21:01] 7, -1566.389892, 1170.356201, 7.187500, Mini-Games
+[21:21:01] 8, -1508.060424, 923.515014, 6.869043, San Fierro Bank
+[21:21:01] 12, -1424.326660, -292.509002, 14.148400, Airport SF
+[21:21:01] GPS System Loaded...
+[21:21:01] --------------------------------------
+
+[21:21:01]   Loading filterscript 'lab.amx'...
+[21:21:01]   Unable to load filterscript 'lab.amx'.
+[21:21:01]   Loading filterscript 'shouryamaps.amx'...
+[21:21:01]   Unable to load filterscript 'shouryamaps.amx'.
+[21:21:01]   Loading filterscript 'stunt.amx'...
+[21:21:01]   Unable to load filterscript 'stunt.amx'.
+[21:21:01]   Loading filterscript 'welcome.amx'...
+[21:21:01]   Unable to load filterscript 'welcome.amx'.
+[21:21:01]   Loading filterscript 'X-Gang2.1.1.amx'...
+[21:21:01]   Unable to load filterscript 'X-Gang2.1.1.amx'.
+[21:21:01]   Loading filterscript 'stime.amx'...
+[21:21:01]   Unable to load filterscript 'stime.amx'.
+[21:21:01]   Loaded 2 filterscripts.
+
+[21:21:01] [debug] Run time error 19: "File or function is not found"
+[21:21:01] [debug]  Streamer_CallbackHook
+[21:21:01] [debug]  mysql_store_result
+[21:21:01] [debug]  mysql_fetch_field
+[21:21:01] [debug]  mysql_free_result
+[21:21:01] [debug]  mysql_real_escape_string
+[21:21:01] [debug]  mysql_fetch_row
+[21:21:01] [debug]  mysql_num_rows
+[21:21:01] [debug]  mysql_insert_id
+[21:21:01] [debug]  CreateDynamicPolygon
+[21:21:01] [debug]  mysql_init
+[21:21:01] [debug] Run time error 19: "File or function is not found"
+[21:21:01] [debug]  Streamer_CallbackHook
+[21:21:01] [debug]  mysql_store_result
+[21:21:01] [debug]  mysql_fetch_field
+[21:21:01] [debug]  mysql_free_result
+[21:21:01] [debug]  mysql_real_escape_string
+[21:21:01] [debug]  mysql_fetch_row
+[21:21:01] [debug]  mysql_num_rows
+[21:21:01] [debug]  mysql_insert_id
+[21:21:01] [debug]  CreateDynamicPolygon
+[21:21:01] [debug]  mysql_init
+[21:21:01] Script[gamemodes/CZCNR.amx]: Run time error 19: "File or function is not found"
+[21:21:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:24:08] 
+[21:24:08] Server Plugins
+[21:24:08] --------------
+[21:24:08]  Loading plugin: crashdetect
+[21:24:08]   CrashDetect v4.15.1 is OK.
+[21:24:08]   Loaded.
+[21:24:08]  Loading plugin: mysql
+[21:24:08]  >> plugin.mysql: R39-4 successfully loaded.
+[21:24:08]   Loaded.
+[21:24:08]  Loading plugin: sscanf
+[21:24:08] 
+
+[21:24:08]  ===============================
+
+[21:24:08]       sscanf plugin loaded.     
+
+[21:24:08]          Version:  2.8.1        
+
+[21:24:08]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:24:08]  ===============================
+
+[21:24:08]   Loaded.
+[21:24:08]  Loading plugin: streamer
+[21:24:08] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[21:24:08]   Loaded.
+[21:24:08]  Loaded 4 plugins.
+
+[21:24:08] 
+[21:24:08] Filterscripts
+[21:24:08] ---------------
+[21:24:08]   Loading filterscript 'afk.amx'...
+[21:24:08]   Loading filterscript 'antirapidfire.amx'...
+[21:24:08]   Unable to load filterscript 'antirapidfire.amx'.
+[21:24:08]   Loading filterscript 'gps.amx'...
+[21:24:08] 
+--------------------------------------
+[21:24:08] GPS System Loaded
+[21:24:08] 0, -2438.551025, 741.183044, 35.107868, Supa Save
+[21:24:08] 1, -1795.019897, 576.496948, 35.166793, VIP Lounge
+[21:24:08] 2, -1927.602294, 261.575897, 40.718589, Vehicle Dealership SF
+[21:24:08] 3, -2621.093017, 217.150161, 4.283658, Ammunation
+[21:24:08] 4, -2632.546142, 619.860168, 14.132818, Hospital
+[21:24:08] 5, -1890.214599, 813.722656, 35.422653, Job Center
+[21:24:08] 6, -1777.782958, 1201.687133, 24.803468, Bomb Shop 
+[21:24:08] 7, -1566.389892, 1170.356201, 7.187500, Mini-Games
+[21:24:08] 8, -1508.060424, 923.515014, 6.869043, San Fierro Bank
+[21:24:08] 12, -1424.326660, -292.509002, 14.148400, Airport SF
+[21:24:08] GPS System Loaded...
+[21:24:08] --------------------------------------
+
+[21:24:08]   Loading filterscript 'lab.amx'...
+[21:24:08]   Unable to load filterscript 'lab.amx'.
+[21:24:08]   Loading filterscript 'shouryamaps.amx'...
+[21:24:08]   Unable to load filterscript 'shouryamaps.amx'.
+[21:24:08]   Loading filterscript 'stunt.amx'...
+[21:24:08]   Unable to load filterscript 'stunt.amx'.
+[21:24:08]   Loading filterscript 'welcome.amx'...
+[21:24:08]   Unable to load filterscript 'welcome.amx'.
+[21:24:08]   Loading filterscript 'X-Gang2.1.1.amx'...
+[21:24:08]   Unable to load filterscript 'X-Gang2.1.1.amx'.
+[21:24:08]   Loading filterscript 'stime.amx'...
+[21:24:08]   Unable to load filterscript 'stime.amx'.
+[21:24:08]   Loaded 2 filterscripts.
+
+[21:24:08] [debug] Run time error 19: "File or function is not found"
+[21:24:08] [debug]  Streamer_CallbackHook
+[21:24:08] [debug]  mysql_store_result
+[21:24:08] [debug]  mysql_fetch_field
+[21:24:08] [debug]  mysql_free_result
+[21:24:08] [debug]  mysql_real_escape_string
+[21:24:08] [debug]  mysql_fetch_row
+[21:24:08] [debug]  mysql_num_rows
+[21:24:08] [debug]  mysql_insert_id
+[21:24:08] [debug]  CreateDynamicPolygon
+[21:24:08] [debug]  mysql_init
+[21:24:08] [debug] Run time error 19: "File or function is not found"
+[21:24:08] [debug]  Streamer_CallbackHook
+[21:24:08] [debug]  mysql_store_result
+[21:24:08] [debug]  mysql_fetch_field
+[21:24:08] [debug]  mysql_free_result
+[21:24:08] [debug]  mysql_real_escape_string
+[21:24:08] [debug]  mysql_fetch_row
+[21:24:08] [debug]  mysql_num_rows
+[21:24:08] [debug]  mysql_insert_id
+[21:24:08] [debug]  CreateDynamicPolygon
+[21:24:08] [debug]  mysql_init
+[21:24:08] Script[gamemodes/CZCNR.amx]: Run time error 19: "File or function is not found"
+[21:24:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:31:01] 
+[20:31:01] Server Plugins
+[20:31:01] --------------
+[20:31:01]  Loading plugin: crashdetect
+[20:31:01]   CrashDetect v4.15.1 is OK.
+[20:31:01]   Loaded.
+[20:31:01]  Loading plugin: mysql
+[20:31:01]  >> plugin.mysql: R39-4 successfully loaded.
+[20:31:01]   Loaded.
+[20:31:01]  Loading plugin: sscanf
+[20:31:01] 
+
+[20:31:01]  ===============================
+
+[20:31:01]       sscanf plugin loaded.     
+
+[20:31:01]          Version:  2.8.1        
+
+[20:31:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:31:01]  ===============================
+
+[20:31:01]   Loaded.
+[20:31:01]  Loading plugin: streamer
+[20:31:01] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[20:31:01]   Loaded.
+[20:31:01]  Loaded 4 plugins.
+
+[20:31:01] 
+[20:31:01] Filterscripts
+[20:31:01] ---------------
+[20:31:01]   Loading filterscript 'afk.amx'...
+[20:31:01]   Loading filterscript 'antirapidfire.amx'...
+[20:31:01]   Unable to load filterscript 'antirapidfire.amx'.
+[20:31:01]   Loading filterscript 'gps.amx'...
+[20:31:01] 
+--------------------------------------
+[20:31:01] GPS System Loaded
+[20:31:01] 0, -2438.551025, 741.183044, 35.107868, Supa Save
+[20:31:01] 1, -1795.019897, 576.496948, 35.166793, VIP Lounge
+[20:31:01] 2, -1927.602294, 261.575897, 40.718589, Vehicle Dealership SF
+[20:31:02] 3, -2621.093017, 217.150161, 4.283658, Ammunation
+[20:31:02] 4, -2632.546142, 619.860168, 14.132818, Hospital
+[20:31:02] 5, -1890.214599, 813.722656, 35.422653, Job Center
+[20:31:02] 6, -1777.782958, 1201.687133, 24.803468, Bomb Shop 
+[20:31:02] 7, -1566.389892, 1170.356201, 7.187500, Mini-Games
+[20:31:02] 8, -1508.060424, 923.515014, 6.869043, San Fierro Bank
+[20:31:02] 12, -1424.326660, -292.509002, 14.148400, Airport SF
+[20:31:02] GPS System Loaded...
+[20:31:02] --------------------------------------
+
+[20:31:02]   Loading filterscript 'lab.amx'...
+[20:31:02]   Unable to load filterscript 'lab.amx'.
+[20:31:02]   Loading filterscript 'shouryamaps.amx'...
+[20:31:02]   Unable to load filterscript 'shouryamaps.amx'.
+[20:31:02]   Loading filterscript 'stunt.amx'...
+[20:31:02]   Unable to load filterscript 'stunt.amx'.
+[20:31:02]   Loading filterscript 'welcome.amx'...
+[20:31:02]   Unable to load filterscript 'welcome.amx'.
+[20:31:02]   Loading filterscript 'X-Gang2.1.1.amx'...
+[20:31:02]   Unable to load filterscript 'X-Gang2.1.1.amx'.
+[20:31:02]   Loading filterscript 'stime.amx'...
+[20:31:02]   Unable to load filterscript 'stime.amx'.
+[20:31:02]   Loaded 2 filterscripts.
+
+[20:31:02] [debug] Run time error 19: "File or function is not found"
+[20:31:02] [debug]  Streamer_CallbackHook
+[20:31:02] [debug]  mysql_store_result
+[20:31:02] [debug]  mysql_fetch_field
+[20:31:02] [debug]  mysql_free_result
+[20:31:02] [debug]  mysql_real_escape_string
+[20:31:02] [debug]  mysql_fetch_row
+[20:31:02] [debug]  mysql_num_rows
+[20:31:02] [debug]  mysql_insert_id
+[20:31:02] [debug]  CreateDynamicPolygon
+[20:31:02] [debug]  mysql_init
+[20:31:02] [debug] Run time error 19: "File or function is not found"
+[20:31:02] [debug]  Streamer_CallbackHook
+[20:31:02] [debug]  mysql_store_result
+[20:31:02] [debug]  mysql_fetch_field
+[20:31:02] [debug]  mysql_free_result
+[20:31:02] [debug]  mysql_real_escape_string
+[20:31:02] [debug]  mysql_fetch_row
+[20:31:02] [debug]  mysql_num_rows
+[20:31:02] [debug]  mysql_insert_id
+[20:31:02] [debug]  CreateDynamicPolygon
+[20:31:02] [debug]  mysql_init
+[20:31:02] Script[gamemodes/CZCNR.amx]: Run time error 19: "File or function is not found"
+[20:31:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:30:38] 
+[22:30:38] Server Plugins
+[22:30:38] --------------
+[22:30:38]  Loading plugin: crashdetect
+[22:30:38]   CrashDetect v4.15.1 is OK.
+[22:30:38]   Loaded.
+[22:30:38]  Loading plugin: mysql
+[22:30:38]  >> plugin.mysql: R39-4 successfully loaded.
+[22:30:38]   Loaded.
+[22:30:38]  Loading plugin: sscanf
+[22:30:38] 
+
+[22:30:38]  ===============================
+
+[22:30:38]       sscanf plugin loaded.     
+
+[22:30:38]          Version:  2.8.1        
+
+[22:30:38]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:30:38]  ===============================
+
+[22:30:38]   Loaded.
+[22:30:38]  Loading plugin: streamer
+[22:30:38] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[22:30:38]   Loaded.
+[22:30:38]  Loaded 4 plugins.
+
+[22:30:38] 
+[22:30:38] Filterscripts
+[22:30:38] ---------------
+[22:30:38]   Loading filterscript 'afk.amx'...
+[22:30:38]   Loading filterscript 'antirapidfire.amx'...
+[22:30:38]   Unable to load filterscript 'antirapidfire.amx'.
+[22:30:38]   Loading filterscript 'gps.amx'...
+[22:30:38] 
+--------------------------------------
+[22:30:38] GPS System Loaded
+[22:30:38] 0, -2438.551025, 741.183044, 35.107868, Supa Save
+[22:30:38] 1, -1795.019897, 576.496948, 35.166793, VIP Lounge
+[22:30:38] 2, -1927.602294, 261.575897, 40.718589, Vehicle Dealership SF
+[22:30:38] 3, -2621.093017, 217.150161, 4.283658, Ammunation
+[22:30:38] 4, -2632.546142, 619.860168, 14.132818, Hospital
+[22:30:38] 5, -1890.214599, 813.722656, 35.422653, Job Center
+[22:30:38] 6, -1777.782958, 1201.687133, 24.803468, Bomb Shop 
+[22:30:38] 7, -1566.389892, 1170.356201, 7.187500, Mini-Games
+[22:30:38] 8, -1508.060424, 923.515014, 6.869043, San Fierro Bank
+[22:30:38] 12, -1424.326660, -292.509002, 14.148400, Airport SF
+[22:30:38] GPS System Loaded...
+[22:30:38] --------------------------------------
+
+[22:30:38]   Loading filterscript 'lab.amx'...
+[22:30:38]   Unable to load filterscript 'lab.amx'.
+[22:30:38]   Loading filterscript 'shouryamaps.amx'...
+[22:30:38]   Unable to load filterscript 'shouryamaps.amx'.
+[22:30:38]   Loading filterscript 'stunt.amx'...
+[22:30:38]   Unable to load filterscript 'stunt.amx'.
+[22:30:38]   Loading filterscript 'welcome.amx'...
+[22:30:38]   Unable to load filterscript 'welcome.amx'.
+[22:30:38]   Loading filterscript 'X-Gang2.1.1.amx'...
+[22:30:38]   Unable to load filterscript 'X-Gang2.1.1.amx'.
+[22:30:38]   Loading filterscript 'stime.amx'...
+[22:30:38]   Unable to load filterscript 'stime.amx'.
+[22:30:38]   Loaded 2 filterscripts.
+
+[22:30:39] [debug] Run time error 19: "File or function is not found"
+[22:30:39] [debug]  Streamer_CallbackHook
+[22:30:39] [debug]  mysql_store_result
+[22:30:39] [debug]  mysql_fetch_field
+[22:30:39] [debug]  mysql_free_result
+[22:30:39] [debug]  mysql_real_escape_string
+[22:30:39] [debug]  mysql_fetch_row
+[22:30:39] [debug]  mysql_num_rows
+[22:30:39] [debug]  mysql_insert_id
+[22:30:39] [debug]  CreateDynamicPolygon
+[22:30:39] [debug]  mysql_init
+[22:30:39] [debug] Run time error 19: "File or function is not found"
+[22:30:39] [debug]  Streamer_CallbackHook
+[22:30:39] [debug]  mysql_store_result
+[22:30:39] [debug]  mysql_fetch_field
+[22:30:39] [debug]  mysql_free_result
+[22:30:39] [debug]  mysql_real_escape_string
+[22:30:39] [debug]  mysql_fetch_row
+[22:30:39] [debug]  mysql_num_rows
+[22:30:39] [debug]  mysql_insert_id
+[22:30:39] [debug]  CreateDynamicPolygon
+[22:30:39] [debug]  mysql_init
+[22:30:39] Script[gamemodes/CZCNR.amx]: Run time error 19: "File or function is not found"
+[22:30:39] Number of vehicle models: 0
+[22:30:54] --- Server Shutting Down.
+[22:30:54] [debug] Run time error 19: "File or function is not found"
+[22:30:54] [debug]  Streamer_CallbackHook
+[22:30:54] [debug]  mysql_store_result
+[22:30:54] [debug]  mysql_fetch_field
+[22:30:54] [debug]  mysql_free_result
+[22:30:54] [debug]  mysql_real_escape_string
+[22:30:54] [debug]  mysql_fetch_row
+[22:30:54] [debug]  mysql_num_rows
+[22:30:54] [debug]  mysql_insert_id
+[22:30:54] [debug]  CreateDynamicPolygon
+[22:30:54] [debug]  mysql_init
+[22:30:54] 
+--------------------------------------
+[22:30:54] GPS System Unloaded..
+[22:30:54] 
+--------------------------------------
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:31:34] 
+[22:31:34] Server Plugins
+[22:31:34] --------------
+[22:31:34]  Loading plugin: crashdetect
+[22:31:34]   CrashDetect v4.15.1 is OK.
+[22:31:34]   Loaded.
+[22:31:34]  Loading plugin: mysql
+[22:31:34]  >> plugin.mysql: R39-4 successfully loaded.
+[22:31:34]   Loaded.
+[22:31:34]  Loading plugin: sscanf
+[22:31:34] 
+
+[22:31:34]  ===============================
+
+[22:31:34]       sscanf plugin loaded.     
+
+[22:31:34]          Version:  2.8.1        
+
+[22:31:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:31:34]  ===============================
+
+[22:31:34]   Loaded.
+[22:31:34]  Loading plugin: streamer
+[22:31:34] 
+
+*** Streamer Plugin v2.3.8 by Incognito loaded ***
+
+[22:31:34]   Loaded.
+[22:31:34]  Loaded 4 plugins.
+
+[22:31:34] 
+[22:31:34] Filterscripts
+[22:31:34] ---------------
+[22:31:34]   Loading filterscript 'afk.amx'...
+[22:31:34]   Loading filterscript 'antirapidfire.amx'...
+[22:31:34]   Unable to load filterscript 'antirapidfire.amx'.
+[22:31:34]   Loading filterscript 'gps.amx'...
+[22:31:34] 
+--------------------------------------
+[22:31:34] GPS System Loaded
+[22:31:34] 0, -2438.551025, 741.183044, 35.107868, Supa Save
+[22:31:34] 1, -1795.019897, 576.496948, 35.166793, VIP Lounge
+[22:31:34] 2, -1927.602294, 261.575897, 40.718589, Vehicle Dealership SF
+[22:31:34] 3, -2621.093017, 217.150161, 4.283658, Ammunation
+[22:31:34] 4, -2632.546142, 619.860168, 14.132818, Hospital
+[22:31:34] 5, -1890.214599, 813.722656, 35.422653, Job Center
+[22:31:34] 6, -1777.782958, 1201.687133, 24.803468, Bomb Shop 
+[22:31:34] 7, -1566.389892, 1170.356201, 7.187500, Mini-Games
+[22:31:34] 8, -1508.060424, 923.515014, 6.869043, San Fierro Bank
+[22:31:34] 12, -1424.326660, -292.509002, 14.148400, Airport SF
+[22:31:34] GPS System Loaded...
+[22:31:34] --------------------------------------
+
+[22:31:34]   Loading filterscript 'lab.amx'...
+[22:31:34]   Unable to load filterscript 'lab.amx'.
+[22:31:34]   Loading filterscript 'shouryamaps.amx'...
+[22:31:34]   Unable to load filterscript 'shouryamaps.amx'.
+[22:31:34]   Loading filterscript 'stunt.amx'...
+[22:31:34]   Unable to load filterscript 'stunt.amx'.
+[22:31:34]   Loading filterscript 'welcome.amx'...
+[22:31:34]   Unable to load filterscript 'welcome.amx'.
+[22:31:34]   Loading filterscript 'X-Gang2.1.1.amx'...
+[22:31:34]   Unable to load filterscript 'X-Gang2.1.1.amx'.
+[22:31:34]   Loading filterscript 'stime.amx'...
+[22:31:34]   Unable to load filterscript 'stime.amx'.
+[22:31:34]   Loaded 2 filterscripts.
+
+[22:31:34] [debug] Run time error 19: "File or function is not found"
+[22:31:34] [debug]  Streamer_CallbackHook
+[22:31:34] [debug]  mysql_store_result
+[22:31:34] [debug]  mysql_fetch_field
+[22:31:34] [debug]  mysql_free_result
+[22:31:34] [debug]  mysql_real_escape_string
+[22:31:34] [debug]  mysql_fetch_row
+[22:31:34] [debug]  mysql_num_rows
+[22:31:34] [debug]  mysql_insert_id
+[22:31:34] [debug]  CreateDynamicPolygon
+[22:31:34] [debug]  mysql_init
+[22:31:34] [debug] Run time error 19: "File or function is not found"
+[22:31:34] [debug]  Streamer_CallbackHook
+[22:31:34] [debug]  mysql_store_result
+[22:31:34] [debug]  mysql_fetch_field
+[22:31:34] [debug]  mysql_free_result
+[22:31:34] [debug]  mysql_real_escape_string
+[22:31:34] [debug]  mysql_fetch_row
+[22:31:34] [debug]  mysql_num_rows
+[22:31:34] [debug]  mysql_insert_id
+[22:31:34] [debug]  CreateDynamicPolygon
+[22:31:34] [debug]  mysql_init
+[22:31:34] Script[gamemodes/CZCNR.amx]: Run time error 19: "File or function is not found"
+[22:31:34] Number of vehicle models: 0
